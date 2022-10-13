@@ -20,5 +20,9 @@
   "homepage": "https://github.com/robvanderleek/netlify-github-webhook#readme",
   "devDependencies": {
     "smee-client": "^1.2.3"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.5",
+    "octokit": "^2.0.9"
   }
 }
